@@ -1,5 +1,5 @@
 {
-    "name": "iutrds/tp4.2",
+    "name": "iutrds/tp5.2",
     "autoload": {
         "psr-4": {
             "Iutrds\\Tp42\\": "app/"

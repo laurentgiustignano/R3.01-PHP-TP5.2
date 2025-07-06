@@ -1,6 +1,6 @@
 <?php
 
-use Iutrds\Tp42\Cart;
+use Iutrds\Tp52\Cart;
 
 require '../vendor/autoload.php';
 

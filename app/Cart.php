@@ -1,6 +1,6 @@
 <?php
 
-namespace Iutrds\Tp42;
+namespace Iutrds\Tp52;
 
 class Cart {
   private array $items = [];
